@@ -1,0 +1,2 @@
+<a href="#" id="btnUpdate" class="btn btn-info btn-sm"><span class="glyphicon glyphicon-floppy-disk"></span> Update</a>
+<a href="#" id="btnCancel" class="btn btn-danger btn-sm" onclick="history.back()"><span class="glyphicon glyphicon-step-backward"></span> Back</a>

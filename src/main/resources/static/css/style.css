@@ -1,0 +1,53 @@
+#pageContent {
+    margin: 5px auto;
+    border:1px solid lightgrey ;
+    padding:10px 5px ;
+
+
+}
+
+#menuTop {
+    border: 1px solid lightgrey;
+    height: 40px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+#menuTop ul {
+    margin: 0 auto;
+    list-style: none;
+    padding-left: 0;
+
+}
+
+#menuTop ul li {
+    display: block;
+    float: left;
+    /*background-color: lightblue;*/
+    padding: 4px;
+    margin: 0 5px;
+    width: 120px;
+    text-align: center;
+
+}
+
+#menuTop ul li a {
+    text-decoration: none;
+
+}
+
+#menuTop ul li a:hover {
+    color: darkred;
+    font-style: italic;
+    font-weight: bold;
+}
+
+table{
+}
+
+table thead tr th{
+    color: darkblue;
+    text-align: center;
+    background-color:lightblue ;
+}
+
